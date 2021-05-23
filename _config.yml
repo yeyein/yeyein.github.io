@@ -29,9 +29,6 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
 logo: img_01.jpg
 social:
   name: "박예인"
