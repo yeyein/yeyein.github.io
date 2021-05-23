@@ -1,7 +1,7 @@
 title: "옝옝코딩"
 description: "전부 공부할거야"
 author: yeyein
-avatar: /img_01.jpg
+avatar: /img_02.jpg
 email: yeiny0301@naver.com
 
 plugins:
@@ -29,7 +29,7 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-logo: img_01.jpg
+logo: img_02.jpg
 social:
   name: "박예인"
   links:
