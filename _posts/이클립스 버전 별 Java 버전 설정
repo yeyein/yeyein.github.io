@@ -1,0 +1,11 @@
+##이클립스 버전 별 Java 버전 설정
+######"loading spring static imports into eclipse code assist favourites". org/eclipse/jdt/internal/compiler/parser/scanner$ajcclosure1
+######해당오류 발생하여 서칭한 결과 이클립스 버전 별 java 버전 상이하였습니다.
+
+#####2020-09 이후 이클립스를 사용하려면 Java11이상을 사용하여야합니다.
+#####2020-06 이전은 Java8버전.
+
+
+
+
+#######https://whitekeyboard.tistory.com/713 참고하였습니다.
